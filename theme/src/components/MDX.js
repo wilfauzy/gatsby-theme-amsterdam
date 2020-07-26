@@ -135,7 +135,6 @@ const Table = styled.table`
   margin: 0 0 1.75rem;
   td,
   th {
-    padding: 0;
     vertical-align: center !important;
     border: 1px solid ${props => props.theme.colors.border};
     padding: 0.75rem;
